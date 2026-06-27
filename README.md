@@ -67,10 +67,9 @@ Output structure:
 final_videos/
   <CLASS>/
     <video_stem>/
-      window_000/
-        frame_000.jpg
-        frame_001.jpg
-        ...
+      window_000.mp4
+      window_001.mp4
+      ...
 ```
 
 ### Step 3 — Train
