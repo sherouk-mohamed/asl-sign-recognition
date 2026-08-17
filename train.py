@@ -1,13 +1,3 @@
-"""
-ASL SIGN RECOGNITION TRAINER — v4
-==================================
-
-Changes over v3:
-1.  Top-N classes by signer diversity   : 109 clips/class avg vs 44 before
-2.  Imbalance ratio 142x → 24x         : weighted sampler far more effective now
-3.  num_classes 381 → 100              : tractable problem for available data + GPU
-4.  GTX 1650 safe defaults             : 160px, 8 frames, batch 4
-"""
 
 import os
 import cv2
