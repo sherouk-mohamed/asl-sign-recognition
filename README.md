@@ -104,10 +104,9 @@ python webcam_asl.py --checkpoint path/to/best_model.pt --camera 0
 ---
 
 ## Pretrained Model
+Download the trained checkpoint and place it anywhere, then pass the path via `--checkpoint`:
 
-Download `best_model.pt` and place it anywhere, then pass the path via `--checkpoint`:
-
-> **[Download best_model.pt](#)** ← replace this with your Google Drive / Hugging Face link
+**[Download best_model.pt](https://drive.google.com/file/d/1SVYMkuf6g8PSXo_N9Vt5MWBMgpWUuAyD/view?usp=drive_link)**
 
 ---
 
